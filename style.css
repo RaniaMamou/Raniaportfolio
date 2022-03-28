@@ -541,7 +541,11 @@ html{
     }
 
       
-  /* .==== RESPONSIVE MEDIA QUERY ====. */
+  
+  
+    /* .==== RESPONSIVE MEDIA QUERY ====. */
+  
+  
   @media (max-width: 1300px){
     .home .max-width{
       margin-left: 0px;
@@ -670,12 +674,5 @@ html{
 }
 
 
-
-
-/* .==== HOMESECTION ====. */
-
-/* .==== Buttons ====. */
-
-/* .==== About Section====. */
 
 
